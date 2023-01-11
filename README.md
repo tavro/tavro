@@ -7,3 +7,7 @@
 :headphones: wanna hang out, talk about programming or work on a project? add me on discord: tavro#9198
 
 :coffee: feeling generous? buy me a coffe https://www.buymeacoffee.com/CvaPyAznK
+
+![tavro's github stats](
+https://github-readme-stats.vercel.app/api?username=tavro&count_private=true&show_icons=true&theme=merko&custom_title=My%20stats&hide_border=true&hide_title=true
+)
